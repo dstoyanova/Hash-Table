@@ -235,6 +235,7 @@
 				ADC021101BD2B99C006EE45C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
